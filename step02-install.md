@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 You can get started quickly with ContentBox by leveraging CommandBox, our CLI and package manager, or with our Docker Images.
 
